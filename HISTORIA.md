@@ -143,3 +143,7 @@ O protagonista percebe que, neste estágio, até mesmo o treinamento de energia 
 ### Decisão: conseguir mais Poeira Estelar
 
 Sem Poeira Estelar, o protagonista não consegue treinar sua energia nem desbloquear a habilidade. Ele decide conseguir mais caçando monstros dentro do portal.
+
+### Estratégia para enfrentar os próximos monstros
+
+O protagonista decide misturar estratégias: continuará usando armadilhas e inteligência, mas também aproveitará oportunidades para atacar os monstros diretamente quando surgir uma abertura. Ele não abandona o método que lhe permitiu sobreviver, mas começa a combinar preparação e ataques oportunos.

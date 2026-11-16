@@ -1,0 +1,49 @@
+# História
+
+## Premissa e protagonista
+
+O protagonista é uma pessoa comum, de rosto e corpo comuns, sem nenhuma característica extraordinária. As pessoas não esperam muito dele. Ele é excluído socialmente, humilhado e agredido por valentões.
+
+É determinado e reservado, fala pouco e guarda os sentimentos. Guarda ressentimento especialmente contra os valentões que o agridem. Odeia ser um fardo e deseja nunca mais precisar ser salvo por outra pessoa.
+
+Não foram definidos nome, idade, família, classe, rank ou outros detalhes de passado.
+
+## Amiga de infância
+
+O protagonista tem uma amiga de infância que gosta dele em segredo. Ela é carinhosa com ele e tímida quando está perto dele, mas com as outras pessoas costuma ser rigorosa e ríspida.
+
+Durante o despertar de Dungeons na escola, no exame de admissão, ela se destaca e recebe Rank A. No futuro, torna-se uma caçadora reconhecida mundialmente.
+
+Um dos valentões que agride o protagonista gosta dela e fica bajulando-a. Isso talvez seja um dos motivos para ele agredir o protagonista ainda mais.
+
+Quando ela descobre que o valentão bate no protagonista, fica furiosa e desperta uma classe especial, liberando uma energia muito poderosa e destruindo tudo ao redor. Ela avança com intenção de matar o valentão, mas um professor Rank S a impede com um golpe na nuca.
+
+Enquanto isso, o protagonista sente ódio por ser um fardo e por ela ter se machucado ou precisado intervir. Ele se afasta e vai embora. Naquele momento, não interpreta a defesa dela como algo positivo.
+
+## Entrada na Dungeon
+
+Depois desses acontecimentos, o protagonista decide entrar sozinho em um portal, pretendendo não voltar: é tudo ou nada.
+
+Ele escolhe uma Dungeon comum, não uma Dungeon Rank S nem uma desconhecida. Entra sozinho e sem preparo ou equipamento adequado.
+
+Como se considerava inútil em combate, estudava livros e matérias de sobrevivência. Conhece armadilhas improvisadas com pedras, paus e galhos, além de saber aproveitar o terreno.
+
+Dentro da Dungeon, usa esse conhecimento para preparar uma armadilha e matar seu primeiro monstro.
+
+Ao perceber que venceu pela primeira vez, chora. É um momento de alívio e emoção por finalmente conseguir provar algo para si mesmo, não de euforia. A vitória vem de conhecimento, paciência e inteligência, não de força, poder ou sorte.
+
+## Primeiro acontecimento sobrenatural
+
+Depois da primeira morte, a criatura desaparece.
+
+Surge uma notificação:
+
+> Plin.
+
+A matéria orgânica da criatura é transformada em matéria negra. O protagonista recebe o poder inicial chamado **Poeira Estelar**.
+
+A notificação apresenta a descrição:
+
+> Você cria um fragmento minúsculo de uma centelha de buraco negro.
+
+Esse fragmento não tem poder para sugar nada, mas pode ajudar o protagonista a fazer ou criar algo. A função exata desse primeiro fragmento ainda não foi definida.

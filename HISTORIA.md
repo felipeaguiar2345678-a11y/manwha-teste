@@ -181,3 +181,13 @@ As criaturas poderão ter aparências, anatomias e habilidades muito diferentes 
 - Essas ocorrências são raras e variáveis; múltiplas mutações não garantem ultrapassagem de Rank.
 - O sistema sempre identifica e apresenta o Rank verdadeiro da criatura. Não existem Ranks falsos, ocultos ou leituras deliberadamente inferiores ao Rank real.
 - Mesmo quando o poder de uma criatura ultrapassa o padrão esperado para seu Rank, sua classificação continua sendo a verdadeira; o que excede é seu poder em relação aos limites normais daquela categoria.
+## Recursos físicos e mágicos do protagonista
+
+- **Vida (PV):** representa a integridade física e a capacidade de sobreviver a ferimentos.
+- **Mana (PM):** é o recurso usado para ativar e sustentar poderes e habilidades sobrenaturais.
+- **Vigor:** representa a capacidade de esforço físico, sendo consumido por ações como correr intensamente, lutar, esquivar-se e realizar movimentos extenuantes.
+- Mana e Vigor são recursos separados: Vigor é destinado ao esforço físico, enquanto Mana é destinado ao uso de poderes.
+
+### Progressão do protagonista
+
+A preferência atual é que o protagonista não tenha um sistema convencional de níveis. Sua evolução poderá ocorrer por treinamento, experiência prática, compreensão, desenvolvimento de atributos e aprimoramento de habilidades, sem depender de subir de nível. A ausência de níveis fica como proposta de progressão a confirmar antes de ser tratada como regra definitiva.

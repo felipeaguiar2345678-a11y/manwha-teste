@@ -73,3 +73,7 @@ O dragão salva o protagonista dos monstros. Antes de partir, lança um olhar pa
 > "Criança, obrigado por me libertar, agora estamos quites"
 
 Depois disso, a pequena criatura vai embora. O motivo exato pelo qual o protagonista o libertou ainda não foi explicado.
+
+### Consumo da Poeira Estelar restante
+
+Para se materializar e salvar o protagonista, o Dragão Ancestral utiliza a única Poeira Estelar que ainda restava armazenada. Depois desse uso, o protagonista fica sem Poeira Estelar armazenada.

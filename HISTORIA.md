@@ -47,3 +47,11 @@ A notificação apresenta a descrição:
 > Você cria um fragmento minúsculo de uma centelha de buraco negro.
 
 Esse fragmento não tem poder para sugar nada, mas pode ajudar o protagonista a fazer ou criar algo. A função exata desse primeiro fragmento ainda não foi definida.
+
+## Determinação após o primeiro despertar
+
+Depois de receber a Poeira Estelar e perceber o armazenamento inicial, o protagonista enxuga as lágrimas, fecha o punho e declara:
+
+> "Eu nunca mais vou depender de ninguém, se esse poder for inútil, eu vou transformá-lo em algo que todos vão temer"
+
+Essa fala marca sua determinação de não voltar a depender dos outros e de transformar o poder, mesmo que pareça inútil no início, em algo temido.

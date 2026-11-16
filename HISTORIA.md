@@ -129,3 +129,9 @@ Dessa vez, percebe algo diferente: em vez do que havia visto antes, encontra um 
 ### O primeiro aspecto do mini mundo
 
 O mini mundo que o protagonista encontra dentro da própria consciência está completamente vazio, contendo apenas um pequeno terreno.
+
+### O mundo que reflete sua consciência
+
+O protagonista percebe que aquele mini mundo reflete sua própria consciência. É um mundo triste e vazio, sem nada de especial. Apesar disso, ele nota algo importante: o mundo possui muita energia.
+
+Ele sente que pode treinar e desenvolver sua energia naquele espaço. Também percebe a possibilidade de aprender uma habilidade aleatória fraca, mas essa habilidade exige Poeira Estelar para ser desbloqueada. Como gastou sua única unidade para materializar o Dragão Ancestral, ele não tem Poeira Estelar disponível naquele momento.

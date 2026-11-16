@@ -89,3 +89,25 @@ Ele não compreende o que causou aquela destruição.
 ### Estado dos monstros
 
 Os monstros que foram atraídos pelos gritos do protagonista também foram devastados. Não restaram intactos; a destruição da área os atingiu.
+
+## Notificação da missão do portal
+
+Depois de encontrar a área devastada e os monstros destruídos, o protagonista recebe uma notificação:
+
+> Plin
+>
+> **Missão do portal**
+>
+> Você tem 6 horas restantes antes do colapso do portal.
+>
+> Portal Rank E
+>
+> Grupo
+>
+> Inimigos normais derrotados: 12/100
+>
+> Chefes: 0/3
+>
+> Termine o portal para receber uma caixa prata.
+
+A missão indica que o portal ainda precisa ser concluído: restam inimigos normais e três chefes a derrotar. A recompensa anunciada por terminar o portal é uma caixa prata.

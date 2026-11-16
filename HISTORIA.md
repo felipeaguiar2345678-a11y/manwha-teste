@@ -191,3 +191,9 @@ As criaturas poderão ter aparências, anatomias e habilidades muito diferentes 
 ### Progressão do protagonista
 
 A preferência atual é que o protagonista não tenha um sistema convencional de níveis. Sua evolução poderá ocorrer por treinamento, experiência prática, compreensão, desenvolvimento de atributos e aprimoramento de habilidades, sem depender de subir de nível. A ausência de níveis fica como proposta de progressão a confirmar antes de ser tratada como regra definitiva.
+### Reservas e custos numéricos
+
+- O protagonista terá valores numéricos para Vida (PV), Mana (PM) e Vigor, incluindo uma capacidade máxima para cada recurso.
+- Habilidades terão custos numéricos de Mana; ações físicas intensas consumirão Vigor.
+- O custo e o consumo deverão variar conforme a habilidade, sua potência, duração e circunstâncias. O uso não deve ser gratuito nem consumir recursos sem indicação.
+- Os valores máximos iniciais e os custos específicos ainda serão definidos na narrativa, sem assumir números antes de estabelecer a condição inicial do protagonista.

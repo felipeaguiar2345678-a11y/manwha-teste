@@ -135,3 +135,7 @@ O mini mundo que o protagonista encontra dentro da própria consciência está c
 O protagonista percebe que aquele mini mundo reflete sua própria consciência. É um mundo triste e vazio, sem nada de especial. Apesar disso, ele nota algo importante: o mundo possui muita energia.
 
 Ele sente que pode treinar e desenvolver sua energia naquele espaço. Também percebe a possibilidade de aprender uma habilidade aleatória fraca, mas essa habilidade exige Poeira Estelar para ser desbloqueada. Como gastou sua única unidade para materializar o Dragão Ancestral, ele não tem Poeira Estelar disponível naquele momento.
+
+### Limitação inicial do treinamento
+
+O protagonista percebe que, neste estágio, até mesmo o treinamento de energia no mini mundo depende da Poeira Estelar. A habilidade aleatória fraca também exige Poeira para ser desbloqueada. Essa dependência existe porque o poder ainda está em seu estado inicial: a Poeira Estelar ainda vai evoluir muito, então essa limitação não é necessariamente permanente.

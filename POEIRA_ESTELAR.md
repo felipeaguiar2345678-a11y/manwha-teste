@@ -40,6 +40,10 @@ A Poeira Estelar é gerada automaticamente quando um monstro é derrotado. A mat
 
 A quantidade e a qualidade da recompensa podem variar conforme a força e os atributos do monstro derrotado. Os valores exatos ainda não foram definidos.
 
+### Notificação após a derrota
+
+Quando derrota um monstro, o protagonista recebe uma notificação que apresenta os atributos da criatura derrotada e informa a qualidade da Poeira Estelar obtida. A quantidade recebida também é exibida, junto com a atualização do armazenamento.
+
 ## Qualidade da Poeira Estelar
 
 A Poeira Estelar possui qualidades diferentes. A qualidade pode influenciar a potência e as propriedades das habilidades criadas.

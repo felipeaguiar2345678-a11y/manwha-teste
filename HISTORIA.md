@@ -207,6 +207,7 @@ A preferência atual é que o protagonista não tenha um sistema convencional de
 - A evolução não será automática nem garantida apenas por repetir uma ação; deverá refletir desenvolvimento e prática relevantes.
 - Os atributos definidos são **Força, Resistência, Agilidade, Inteligência e Percepção**.
 - **Controle de Energia não será um atributo separado.**
-- Condição inicial do protagonista: **Força, Resistência, Agilidade e Percepção começam muito baixas; Inteligência começa mediana**, refletindo sua condição física fraca e seus estudos prévios.
-- Os números exatos desses atributos e a escala de referência ainda serão definidos; não atribuir valores arbitrários antes disso.
+- A escala inicial dos atributos vai de **0 a 100**: 0–10 extremamente baixo; 11–25 muito baixo; 26–40 baixo; 41–60 mediano; 61–75 alto; 76–90 muito alto; 91–100 excepcional.
+- Valores iniciais do protagonista: **Força 1, Resistência 1, Agilidade 1, Inteligência 41 e Percepção 1**.
+- Esses valores representam seu estado no início da aventura e poderão evoluir individualmente conforme treinamento, aprendizado e experiências relevantes.
 

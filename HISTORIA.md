@@ -115,3 +115,7 @@ A missão indica que o portal ainda precisa ser concluído: restam inimigos norm
 ### Arrependimento pela escolha do portal
 
 Ao ler os objetivos da missão, o protagonista começa a pensar melhor na escolha que fez. Ele percebe que não foi nada inteligente entrar sozinho em um portal Rank E destinado a grupos.
+
+### Pausa para recuperar energia
+
+Depois de perceber o erro de ter entrado sozinho em um portal destinado a grupos, o protagonista procura um lugar seguro. Ele decide descansar e reunir um pouco de energia antes de continuar.

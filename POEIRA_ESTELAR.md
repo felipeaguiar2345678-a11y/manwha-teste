@@ -61,3 +61,9 @@ As combinações podem gerar resultados inesperados, inclusive habilidades raras
 ## Estado após a materialização do Dragão Ancestral
 
 O Dragão Ancestral utilizou a única Poeira Estelar restante do protagonista para se materializar e salvá-lo. Após esse acontecimento, o armazenamento do protagonista fica sem Poeira Estelar. A capacidade máxima inicial continua sendo 100.
+
+## Treinamento no mundo interior e habilidade bloqueada
+
+O mini mundo dentro da consciência do protagonista reflete seu estado interior: é triste, vazio e sem nada de especial, mas contém muita energia. O protagonista sente que pode treinar e desenvolver sua energia nesse espaço.
+
+Ele também percebe a possibilidade de aprender uma habilidade aleatória fraca. O desbloqueio dessa habilidade exige Poeira Estelar. Essa possibilidade foi identificada, mas a habilidade ainda não foi desbloqueada nem definida.

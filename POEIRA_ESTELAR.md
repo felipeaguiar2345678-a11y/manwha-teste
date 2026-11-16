@@ -67,3 +67,9 @@ O Dragão Ancestral utilizou a única Poeira Estelar restante do protagonista pa
 O mini mundo dentro da consciência do protagonista reflete seu estado interior: é triste, vazio e sem nada de especial, mas contém muita energia. O protagonista sente que pode treinar e desenvolver sua energia nesse espaço.
 
 Ele também percebe a possibilidade de aprender uma habilidade aleatória fraca. O desbloqueio dessa habilidade exige Poeira Estelar. Essa possibilidade foi identificada, mas a habilidade ainda não foi desbloqueada nem definida.
+
+## Limitação nesta fase inicial
+
+Neste estágio, tudo relacionado às capacidades do protagonista depende da Poeira Estelar: tanto o treinamento de energia quanto o desbloqueio de habilidades exigem Poeira Estelar. Sem ela, ele não consegue realizar esse treinamento nem desbloquear a habilidade aleatória fraca.
+
+Essa dependência é uma limitação da Poeira Estelar em seu estado atual. O poder ainda vai evoluir muito, portanto essas regras não devem ser tratadas como limites permanentes do sistema em suas futuras evoluções.

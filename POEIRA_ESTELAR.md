@@ -57,3 +57,7 @@ As combinações podem gerar resultados inesperados, inclusive habilidades raras
 - Regras detalhadas, probabilidades e riscos das combinações.
 - Função exata do primeiro fragmento.
 - Como a capacidade de armazenamento poderá ser aumentada.
+
+## Estado após a materialização do Dragão Ancestral
+
+O Dragão Ancestral utilizou a única Poeira Estelar restante do protagonista para se materializar e salvá-lo. Após esse acontecimento, o armazenamento do protagonista fica sem Poeira Estelar. A capacidade máxima inicial continua sendo 100.

@@ -85,3 +85,7 @@ Quando recupera a consciência, o protagonista encontra a área completamente de
 > "Foi eu que fiz isso?"
 
 Ele não compreende o que causou aquela destruição.
+
+### Estado dos monstros
+
+Os monstros que foram atraídos pelos gritos do protagonista também foram devastados. Não restaram intactos; a destruição da área os atingiu.

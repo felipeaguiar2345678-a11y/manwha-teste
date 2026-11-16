@@ -151,3 +151,5 @@ O protagonista decide misturar estratégias: continuará usando armadilhas e int
 ### Desenvolvimento dos próximos encontros
 
 A partir dos próximos encontros, as criaturas que aparecerem serão desenvolvidas de forma variável e aleatória pelo assistente, que decidirá quais monstros surgem durante a aventura. Cada criatura terá valores numéricos para seus atributos, um rank e uma classificação de raridade, indicando se é comum ou de outra raridade. Os monstros e seus encontros deverão respeitar a situação e o contexto atual da Dungeon, sem antecipar detalhes ainda não estabelecidos do mundo.
+
+As criaturas poderão ter aparências, anatomias e habilidades muito diferentes entre si, inclusive formas incomuns e combinações de características inesperadas. Não haverá um único padrão visual ou conjunto de habilidades para todos os monstros.

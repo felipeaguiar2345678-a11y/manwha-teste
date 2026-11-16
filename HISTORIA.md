@@ -55,3 +55,11 @@ Depois de receber a Poeira Estelar e perceber o armazenamento inicial, o protago
 > "Eu nunca mais vou depender de ninguém, se esse poder for inútil, eu vou transformá-lo em algo que todos vão temer"
 
 Essa fala marca sua determinação de não voltar a depender dos outros e de transformar o poder, mesmo que pareça inútil no início, em algo temido.
+
+## A presença na consciência
+
+Ao tentar descobrir como interagir com o fragmento, o protagonista olha para dentro da própria consciência, onde consegue enxergá-lo como se fosse um pequeno universo.
+
+Quando tenta interagir, percebe uma presença que o suprime: um grande **Dragão Ancestral**. A presença é tão esmagadora que ele começa a sentir uma dor de cabeça terrível e cai no chão gritando.
+
+Seus gritos atraem os monstros que estavam nas proximidades da Dungeon.

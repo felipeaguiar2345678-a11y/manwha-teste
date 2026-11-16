@@ -73,3 +73,7 @@ Ele também percebe a possibilidade de aprender uma habilidade aleatória fraca.
 Neste estágio, tudo relacionado às capacidades do protagonista depende da Poeira Estelar: tanto o treinamento de energia quanto o desbloqueio de habilidades exigem Poeira Estelar. Sem ela, ele não consegue realizar esse treinamento nem desbloquear a habilidade aleatória fraca.
 
 Essa dependência é uma limitação da Poeira Estelar em seu estado atual. O poder ainda vai evoluir muito, portanto essas regras não devem ser tratadas como limites permanentes do sistema em suas futuras evoluções.
+
+## Como obter mais Poeira Estelar
+
+Neste ponto da história, o protagonista decide caçar monstros para conseguir mais Poeira Estelar e assim voltar a ter acesso ao treinamento de energia e ao desbloqueio de habilidades.

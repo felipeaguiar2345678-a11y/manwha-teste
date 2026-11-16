@@ -77,3 +77,11 @@ Depois disso, a pequena criatura vai embora. O motivo exato pelo qual o protagon
 ### Consumo da Poeira Estelar restante
 
 Para se materializar e salvar o protagonista, o Dragão Ancestral utiliza a única Poeira Estelar que ainda restava armazenada. Depois desse uso, o protagonista fica sem Poeira Estelar armazenada.
+
+## Depois da partida do Dragão Ancestral
+
+Quando recupera a consciência, o protagonista encontra a área completamente devastada. Sem entender o que aconteceu, olha ao redor e pergunta:
+
+> "Foi eu que fiz isso?"
+
+Ele não compreende o que causou aquela destruição.

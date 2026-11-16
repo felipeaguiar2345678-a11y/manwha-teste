@@ -147,3 +147,7 @@ Sem Poeira Estelar, o protagonista não consegue treinar sua energia nem desbloq
 ### Estratégia para enfrentar os próximos monstros
 
 O protagonista decide misturar estratégias: continuará usando armadilhas e inteligência, mas também aproveitará oportunidades para atacar os monstros diretamente quando surgir uma abertura. Ele não abandona o método que lhe permitiu sobreviver, mas começa a combinar preparação e ataques oportunos.
+
+### Desenvolvimento dos próximos encontros
+
+A partir dos próximos encontros, as criaturas que aparecerem serão desenvolvidas de forma variável e aleatória pelo assistente, que decidirá quais monstros surgem durante a aventura. Cada criatura terá valores numéricos para seus atributos, um rank e uma classificação de raridade, indicando se é comum ou de outra raridade. Os monstros e seus encontros deverão respeitar a situação e o contexto atual da Dungeon, sem antecipar detalhes ainda não estabelecidos do mundo.

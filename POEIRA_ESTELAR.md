@@ -34,6 +34,12 @@ A capacidade inicial é de 100 unidades e poderá ser aumentada no futuro.
 
 Inimigos mais fortes fornecem mais Poeira Estelar do que monstros comuns.
 
+### Obtenção automática após derrotar monstros
+
+A Poeira Estelar é gerada automaticamente quando um monstro é derrotado. A matéria orgânica da criatura é transformada em matéria negra, e o sistema concede a Poeira Estelar diretamente ao armazenamento do protagonista, sem exigir absorção manual.
+
+A quantidade e a qualidade da recompensa podem variar conforme a força e os atributos do monstro derrotado. Os valores exatos ainda não foram definidos.
+
 ## Qualidade da Poeira Estelar
 
 A Poeira Estelar possui qualidades diferentes. A qualidade pode influenciar a potência e as propriedades das habilidades criadas.

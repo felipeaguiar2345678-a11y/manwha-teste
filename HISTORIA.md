@@ -205,5 +205,7 @@ A preferência atual é que o protagonista não tenha um sistema convencional de
 - O desenvolvimento de um atributo estará ligado a práticas, treinamentos, experiências e situações relevantes para aquele atributo. Por exemplo, treinamento físico e esforço podem desenvolver atributos físicos, enquanto estudo, observação e análise podem desenvolver capacidades mentais.
 - Os atributos não precisam crescer todos juntos: o protagonista pode melhorar um aspecto sem necessariamente melhorar os demais.
 - A evolução não será automática nem garantida apenas por repetir uma ação; deverá refletir desenvolvimento e prática relevantes.
-- Os valores iniciais, a lista definitiva de atributos e o ritmo de evolução ainda serão estabelecidos na narrativa.
+- Os atributos definidos são **Força, Resistência, Agilidade, Inteligência e Percepção**.
+- **Controle de Energia não será um atributo separado.**
+- Os valores iniciais e o ritmo de evolução ainda serão estabelecidos na narrativa.
 

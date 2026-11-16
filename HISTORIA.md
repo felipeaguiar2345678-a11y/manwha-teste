@@ -63,3 +63,13 @@ Ao tentar descobrir como interagir com o fragmento, o protagonista olha para den
 Quando tenta interagir, percebe uma presença que o suprime: um grande **Dragão Ancestral**. A presença é tão esmagadora que ele começa a sentir uma dor de cabeça terrível e cai no chão gritando.
 
 Seus gritos atraem os monstros que estavam nas proximidades da Dungeon.
+
+## A materialização do Dragão Ancestral
+
+Enquanto os monstros se aproximam e o protagonista permanece caído, o Dragão Ancestral interfere. Ele utiliza a Poeira Estelar que o protagonista possuía para se materializar em uma pequena criatura.
+
+O dragão salva o protagonista dos monstros. Antes de partir, lança um olhar para ele e diz:
+
+> "Criança, obrigado por me libertar, agora estamos quites"
+
+Depois disso, a pequena criatura vai embora. O motivo exato pelo qual o protagonista o libertou ainda não foi explicado.

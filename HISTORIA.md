@@ -170,3 +170,8 @@ As criaturas poderão ter aparências, anatomias e habilidades muito diferentes 
 - Alguns monstros podem sofrer várias mutações ao longo da vida e acumular características especiais.
 - As mutações acumuladas podem combinar-se e alterar a aparência, anatomia, atributos, comportamento e habilidades do indivíduo.
 - A quantidade e a combinação de mutações variam; não são garantidas e podem produzir resultados raros ou inesperados.
+
+### Ultrapassagem dos limites de Rank
+- Monstros com mutações acumuladas podem, em casos excepcionais, ultrapassar os limites normais de poder do próprio Rank.
+- Isso não altera automaticamente o Rank registrado: a criatura pode apresentar atributos, resistência ou habilidades acima do esperado para sua classificação.
+- Essas ocorrências são raras e variáveis; múltiplas mutações não garantem ultrapassagem de Rank.

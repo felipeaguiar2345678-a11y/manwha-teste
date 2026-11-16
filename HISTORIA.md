@@ -207,5 +207,6 @@ A preferência atual é que o protagonista não tenha um sistema convencional de
 - A evolução não será automática nem garantida apenas por repetir uma ação; deverá refletir desenvolvimento e prática relevantes.
 - Os atributos definidos são **Força, Resistência, Agilidade, Inteligência e Percepção**.
 - **Controle de Energia não será um atributo separado.**
-- Os valores iniciais e o ritmo de evolução ainda serão estabelecidos na narrativa.
+- Condição inicial do protagonista: **Força, Resistência, Agilidade e Percepção começam muito baixas; Inteligência começa mediana**, refletindo sua condição física fraca e seus estudos prévios.
+- Os números exatos desses atributos e a escala de referência ainda serão definidos; não atribuir valores arbitrários antes disso.
 

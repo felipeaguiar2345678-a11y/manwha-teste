@@ -155,23 +155,29 @@ A partir dos próximos encontros, as criaturas que aparecerem serão desenvolvid
 As criaturas poderão ter aparências, anatomias e habilidades muito diferentes entre si, inclusive formas incomuns e combinações de características inesperadas. Não haverá um único padrão visual ou conjunto de habilidades para todos os monstros.
 
 ## Mutações e características especiais das criaturas
+
 - Monstros podem nascer com mutações e características especiais aleatórias, inclusive indivíduos da mesma espécie.
 - Exemplos incluem alterações anatômicas (como olhos extras ou carapaças incomuns), órgãos especiais e habilidades raras que não são comuns à espécie.
 - Essas variações podem influenciar os atributos, o comportamento, as habilidades e a qualidade/quantidade de Poeira Estelar obtida ao derrotá-los.
 - As mutações não são garantidas nem padronizadas: cada indivíduo pode ser diferente.
 
 ### Quando as mutações podem surgir
+
 - Mutações podem estar presentes desde o nascimento.
 - Também podem surgir durante a evolução do monstro.
 - Uma mutação pode ser desencadeada quando o monstro perde vida, inclusive durante um combate; isso pode provocar uma mudança ou adaptação inesperada.
 - Esses acontecimentos são variáveis e não garantem que todo monstro sofrerá mutações.
 
 ### Mutações acumuladas
+
 - Alguns monstros podem sofrer várias mutações ao longo da vida e acumular características especiais.
 - As mutações acumuladas podem combinar-se e alterar a aparência, anatomia, atributos, comportamento e habilidades do indivíduo.
 - A quantidade e a combinação de mutações variam; não são garantidas e podem produzir resultados raros ou inesperados.
 
 ### Ultrapassagem dos limites de Rank
+
 - Monstros com mutações acumuladas podem, em casos excepcionais, ultrapassar os limites normais de poder do próprio Rank.
 - Isso não altera automaticamente o Rank registrado: a criatura pode apresentar atributos, resistência ou habilidades acima do esperado para sua classificação.
 - Essas ocorrências são raras e variáveis; múltiplas mutações não garantem ultrapassagem de Rank.
+- O sistema sempre identifica e apresenta o Rank verdadeiro da criatura. Não existem Ranks falsos, ocultos ou leituras deliberadamente inferiores ao Rank real.
+- Mesmo quando o poder de uma criatura ultrapassa o padrão esperado para seu Rank, sua classificação continua sendo a verdadeira; o que excede é seu poder em relação aos limites normais daquela categoria.

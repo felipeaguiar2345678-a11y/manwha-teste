@@ -139,3 +139,7 @@ Ele sente que pode treinar e desenvolver sua energia naquele espaço. Também pe
 ### Limitação inicial do treinamento
 
 O protagonista percebe que, neste estágio, até mesmo o treinamento de energia no mini mundo depende da Poeira Estelar. A habilidade aleatória fraca também exige Poeira para ser desbloqueada. Essa dependência existe porque o poder ainda está em seu estado inicial: a Poeira Estelar ainda vai evoluir muito, então essa limitação não é necessariamente permanente.
+
+### Decisão: conseguir mais Poeira Estelar
+
+Sem Poeira Estelar, o protagonista não consegue treinar sua energia nem desbloquear a habilidade. Ele decide conseguir mais caçando monstros dentro do portal.

@@ -111,3 +111,7 @@ Depois de encontrar a área devastada e os monstros destruídos, o protagonista 
 > Termine o portal para receber uma caixa prata.
 
 A missão indica que o portal ainda precisa ser concluído: restam inimigos normais e três chefes a derrotar. A recompensa anunciada por terminar o portal é uma caixa prata.
+
+### Arrependimento pela escolha do portal
+
+Ao ler os objetivos da missão, o protagonista começa a pensar melhor na escolha que fez. Ele percebe que não foi nada inteligente entrar sozinho em um portal Rank E destinado a grupos.

@@ -119,3 +119,9 @@ Ao ler os objetivos da missão, o protagonista começa a pensar melhor na escolh
 ### Pausa para recuperar energia
 
 Depois de perceber o erro de ter entrado sozinho em um portal destinado a grupos, o protagonista procura um lugar seguro. Ele decide descansar e reunir um pouco de energia antes de continuar.
+
+### A segunda entrada na consciência
+
+Enquanto descansa e reúne energia, o protagonista tenta entrar novamente em sua mente, no mesmo lugar onde antes encontrava a Poeira Estelar.
+
+Dessa vez, percebe algo diferente: em vez do que havia visto antes, encontra um mini mundo. O que esse mundo contém e como surgiu ainda não foi definido.

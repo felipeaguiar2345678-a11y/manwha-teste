@@ -153,3 +153,9 @@ O protagonista decide misturar estratégias: continuará usando armadilhas e int
 A partir dos próximos encontros, as criaturas que aparecerem serão desenvolvidas de forma variável e aleatória pelo assistente, que decidirá quais monstros surgem durante a aventura. Cada criatura terá valores numéricos para seus atributos, um rank e uma classificação de raridade, indicando se é comum ou de outra raridade. Os monstros e seus encontros deverão respeitar a situação e o contexto atual da Dungeon, sem antecipar detalhes ainda não estabelecidos do mundo.
 
 As criaturas poderão ter aparências, anatomias e habilidades muito diferentes entre si, inclusive formas incomuns e combinações de características inesperadas. Não haverá um único padrão visual ou conjunto de habilidades para todos os monstros.
+
+## Mutações e características especiais das criaturas
+- Monstros podem nascer com mutações e características especiais aleatórias, inclusive indivíduos da mesma espécie.
+- Exemplos incluem alterações anatômicas (como olhos extras ou carapaças incomuns), órgãos especiais e habilidades raras que não são comuns à espécie.
+- Essas variações podem influenciar os atributos, o comportamento, as habilidades e a qualidade/quantidade de Poeira Estelar obtida ao derrotá-los.
+- As mutações não são garantidas nem padronizadas: cada indivíduo pode ser diferente.

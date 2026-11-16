@@ -159,3 +159,9 @@ As criaturas poderão ter aparências, anatomias e habilidades muito diferentes 
 - Exemplos incluem alterações anatômicas (como olhos extras ou carapaças incomuns), órgãos especiais e habilidades raras que não são comuns à espécie.
 - Essas variações podem influenciar os atributos, o comportamento, as habilidades e a qualidade/quantidade de Poeira Estelar obtida ao derrotá-los.
 - As mutações não são garantidas nem padronizadas: cada indivíduo pode ser diferente.
+
+### Quando as mutações podem surgir
+- Mutações podem estar presentes desde o nascimento.
+- Também podem surgir durante a evolução do monstro.
+- Uma mutação pode ser desencadeada quando o monstro perde vida, inclusive durante um combate; isso pode provocar uma mudança ou adaptação inesperada.
+- Esses acontecimentos são variáveis e não garantem que todo monstro sofrerá mutações.

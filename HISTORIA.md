@@ -125,3 +125,7 @@ Depois de perceber o erro de ter entrado sozinho em um portal destinado a grupos
 Enquanto descansa e reúne energia, o protagonista tenta entrar novamente em sua mente, no mesmo lugar onde antes encontrava a Poeira Estelar.
 
 Dessa vez, percebe algo diferente: em vez do que havia visto antes, encontra um mini mundo. O que esse mundo contém e como surgiu ainda não foi definido.
+
+### O primeiro aspecto do mini mundo
+
+O mini mundo que o protagonista encontra dentro da própria consciência está completamente vazio, contendo apenas um pequeno terreno.

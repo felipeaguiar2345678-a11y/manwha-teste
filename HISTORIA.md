@@ -165,3 +165,8 @@ As criaturas poderão ter aparências, anatomias e habilidades muito diferentes 
 - Também podem surgir durante a evolução do monstro.
 - Uma mutação pode ser desencadeada quando o monstro perde vida, inclusive durante um combate; isso pode provocar uma mudança ou adaptação inesperada.
 - Esses acontecimentos são variáveis e não garantem que todo monstro sofrerá mutações.
+
+### Mutações acumuladas
+- Alguns monstros podem sofrer várias mutações ao longo da vida e acumular características especiais.
+- As mutações acumuladas podem combinar-se e alterar a aparência, anatomia, atributos, comportamento e habilidades do indivíduo.
+- A quantidade e a combinação de mutações variam; não são garantidas e podem produzir resultados raros ou inesperados.

@@ -15,4 +15,4 @@ Somente ideias aprovadas pelo autor são consideradas cânone. Não inventar nom
 
 ## Estado atual
 
-O projeto está na fase de planejamento da história e do sistema. A produção visual final do manhwa ainda não começou.
+A história já avançou da origem da Poeira Estelar até o teste escolar, o confronto supervisionado com um valentão Rank B e a emissão da carta de aventureiro Rank F provisória. O cânone confirmado está registrado nos documentos; a produção visual final do manhwa ainda está em desenvolvimento.

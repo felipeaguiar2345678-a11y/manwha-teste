@@ -8,6 +8,7 @@ Projeto de manhwa original em desenvolvimento. Este repositório registra o cân
 - [Personagens](PERSONAGENS.md): protagonista e amiga de infância.
 - [Poeira Estelar](POEIRA_ESTELAR.md): poder, matéria negra, armazenamento e criação de habilidades.
 - [Pendências](PENDENCIAS.md): decisões que ainda precisam ser tomadas.
+- [Baixar o PDF — Volume 01](docs/Ascensao_do_Soberano_Volume_01.pdf): compilação ilustrada em 8 páginas com história, personagens, atributos, recursos, poderes, bestiário e estado atual.
 
 ## Regra de desenvolvimento
 

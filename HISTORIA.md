@@ -216,3 +216,34 @@ A preferência atual é que o protagonista não tenha um sistema convencional de
 - Valores iniciais do protagonista: **Força 1, Resistência 1, Agilidade 1, Inteligência 10 e Percepção 1**.
 - Esses valores representam seu estado no início da aventura e poderão evoluir individualmente conforme treinamento, aprendizado e experiências relevantes.
 
+## Continuação da história — escola, confronto e registro
+
+### Teste de aventureiros na escola
+
+Na manhã seguinte à saída da Dungeon, o protagonista comparece ao teste de aventureiros da escola. O teste não utiliza cristal de despertar: os participantes demonstram sua capacidade ofensiva golpeando uma grande placa negra, que mede a força destrutiva do ataque para determinar o Rank.
+
+O protagonista é o último a realizar o teste. Ele concentra toda a Mana disponível e dispara sua habilidade **Disparo de Singularidade** contra a placa. O impacto causa danos expressivos e rachaduras, mas o equipamento falha e registra **Rank F**. Os avaliadores percebem a inconsistência e deixam o resultado como provisório, aguardando investigação. O Rank F não é tratado como uma leitura verdadeira e definitiva do potencial dele.
+
+### Confronto com o valentão Rank B
+
+Depois do resultado, o protagonista desafia quem estiver rindo dele para enfrentá-lo. Um valentão de **Rank B** aceita. O professor exige que o combate ocorra em campo autorizado, sob supervisão e com regras: ataques letais são proibidos; o combate termina por rendição, incapacidade de continuar ou decisão dos avaliadores.
+
+O valentão avança com um soco no peito. O protagonista permanece imóvel e ativa o **Manto de Ressonância** no último instante. O impacto o empurra alguns centímetros, mas ele permanece de pé e não sofre perda de Vida. Em seguida, contra-ataca de perto com um **Disparo de Singularidade** em potência máxima. O ataque lança o adversário para trás; ele tenta se levantar, mas seu braço treme e suas pernas não respondem. O professor suspende o combate antes que a situação se torne mais grave.
+
+O protagonista não responde ao professor e deixa a arena. A suspensão impede que se declare uma vitória formal definitiva, embora o adversário tenha ficado temporariamente incapaz de continuar.
+
+### Conversa com a amiga de infância
+
+Antes do teste, a amiga de infância percebe que o protagonista não está bem e pergunta sobre o que aconteceu. Ele revela que havia tentado tirar a própria vida, mas que o poder lhe deu uma nova chance. Também diz sentir que pode fazer qualquer coisa e que pretende virar o mundo de cabeça para baixo.
+
+Ela fica chocada e emocionada, segura o braço dele e diz que ele não precisa quase morrer para acreditar que tem valor. Pede que ele continue vivo e afirma que não quer que ele precise morrer para provar seu valor. O protagonista encerra a conversa dizendo que precisa se preparar e se despede; ela pede que tome cuidado.
+
+### Cadastro na Associação de Aventureiros
+
+Após sair da escola e do confronto, o protagonista vai à Associação de Aventureiros para solicitar sua carta. A atendente informa que é possível emitir o documento com a classificação Rank F provisória, sem exigir uma reavaliação imediata.
+
+Quando perguntado se deseja registrar as habilidades no cadastro ou mantê-las confidenciais, ele escolhe **confidencial**. Em seguida, decide que a carta deve exibir apenas informações públicas, sem atributos numéricos. A carta é emitida com classificação Rank F provisória, habilidades confidenciais e atributos não divulgados.
+
+### Estado mais recente da narrativa
+
+Depois de receber a carta, o protagonista deixa a Associação e volta para casa para descansar. A noite passa sem interrupções e ele acorda na manhã seguinte. A quantidade exata de horas dormidas e os valores atuais após o sono ainda não foram registrados numericamente.

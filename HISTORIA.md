@@ -199,7 +199,9 @@ A preferência atual é que o protagonista não tenha um sistema convencional de
 - Reservas máximas iniciais definidas: **50 PV**, **30 de Vigor** e Mana calculada por **20 + (Inteligência × 5)**.
 - Com Inteligência inicial 10, o protagonista começa com **70 PM**.
 - A Mana máxima poderá mudar quando a Inteligência evoluir, conforme a fórmula acima.
-- Os custos específicos das habilidades e ações ainda serão definidos na narrativa.
+- Os custos específicos das habilidades e ações serão definidos dinamicamente pelo assistente de acordo com a situação e as circunstâncias: potência empregada, duração, alcance, dificuldade, estado do protagonista e condições do ambiente.
+- O custo deverá ser coerente com a habilidade e com o esforço exigido; usos mais intensos ou difíceis normalmente custarão mais recursos.
+- Antes de uma ação que consuma recursos, o custo previsto e os recursos restantes deverão ser informados ao jogador sempre que isso for possível.
 
 ### Atributos numéricos e evolução individual
 

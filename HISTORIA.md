@@ -196,7 +196,10 @@ A preferência atual é que o protagonista não tenha um sistema convencional de
 - O protagonista terá valores numéricos para Vida (PV), Mana (PM) e Vigor, incluindo uma capacidade máxima para cada recurso.
 - Habilidades terão custos numéricos de Mana; ações físicas intensas consumirão Vigor.
 - O custo e o consumo deverão variar conforme a habilidade, sua potência, duração e circunstâncias. O uso não deve ser gratuito nem consumir recursos sem indicação.
-- Os valores máximos iniciais e os custos específicos ainda serão definidos na narrativa, sem assumir números antes de estabelecer a condição inicial do protagonista.
+- Reservas máximas iniciais definidas: **50 PV**, **30 de Vigor** e Mana calculada por **20 + (Inteligência × 5)**.
+- Com Inteligência inicial 10, o protagonista começa com **70 PM**.
+- A Mana máxima poderá mudar quando a Inteligência evoluir, conforme a fórmula acima.
+- Os custos específicos das habilidades e ações ainda serão definidos na narrativa.
 
 ### Atributos numéricos e evolução individual
 
